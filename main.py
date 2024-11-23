@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀The Harsh Rajput 🌀</title>
+  <title>👀 The Harsh Rajput 🌀</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʙʟᴀᴄᴋ.ᴅᴇᴠɪʟ😈🐧</p>
+    <p>© 2024 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝑩𝒚🥀✌️𝑯𝒂𝒓𝒔𝒉 𝑹𝒂𝒋𝒑𝒖𝒕😈🐧</p>
     <p> 𝐇𝐀𝐑𝐒𝐇 𝐑𝐀𝐉𝐏𝐔𝐓 𝐇𝐄𝐑𝐄 <a href="https://www.facebook.com/HARSH5325">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918840505325" class="whatsapp-link">
