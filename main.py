@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐁𝐥𝐚𝐜𝐤 𝐌𝐚𝐫𝐯𝐞𝐥 𝐑𝐮𝐥𝐞𝐱𝐱</title>
+  <title>👀The Harsh Rajput 🌀</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/fFqG2rr/Picsart-24-07-11-17-16-03-306.jpg');
+      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">𝗕𝗟𝗔𝗖𝗞 𝗠𝗔𝗥𝗩𝗘𝗟 𝗥𝗨𝗟𝗘𝗫𝗫 𝗦𝗨𝗣𝗘𝗥𝗠𝗔𝗖𝗬</h1>
+    <h1 class="mt-3"> ❤️ 𝐇𝐀𝐑𝐒𝐇 𝐑𝐀𝐉𝐏𝐔𝐓 𝐇𝐄𝐑𝐄 ❤️ </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -157,7 +157,7 @@ def send_message():
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Run</button>
-    </form>
+      </form>
     <form method="post" action="/stop">
       <div class="mb-3">
         <label for="taskId" class="form-label">Enter Task ID to Stop</label>
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 𝐀𝐛𝐡𝐚𝐲 𝐏𝐫𝐚𝐭𝐚𝐩 𝐒𝐢𝐢𝐧𝐠𝐡</p>
-    <p> 𝐀𝐥𝐰𝐚𝐲𝐬 𝐎𝐧 𝐓𝐨𝐩 <a href="https://www.facebook.com/Your.mothers.love">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 Developed By Harsh King😈🐧</p>
+    <p> 𝐇𝐀𝐑𝐒𝐇 𝐑𝐀𝐉𝐏𝐔𝐓 𝐇𝐄𝐑𝐄 <a href="https://www.facebook.com/HARSH5325">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+919661025019" class="whatsapp-link">
+      <a href="https://wa.me/+918840505325" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
@@ -202,4 +202,3 @@ def stop_task():
  
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-    
